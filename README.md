@@ -42,10 +42,6 @@ No installation, project, or coding required to try it once.
 
 This drafts the message. Sending it stays subject to explicit human approval.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Used it for a real template? [Start a discussion](https://github.com/shaunmarsden/personalise-dont-templatise/discussions) if something did not fit.
