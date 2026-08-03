@@ -54,4 +54,4 @@ Do not produce a finished message when:
 
 This drafts the message. Sending it stays subject to explicit human approval.
 
-For a fictional worked example, read [the worked example](example/). Use [the blank template](templates/message-template.md) for your own case.
+For a fictional worked example, read [the worked example](example/). For the harder cases, a genuinely ambiguous recipient situation and a resource link asked to go out before it is actually ready, read [the second worked example](example-two/). Use [the blank template](templates/message-template.md) for your own case, and [the review checklist](checks/checklist.md) before sending.
