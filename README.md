@@ -11,7 +11,7 @@ Draft a fixed-template message personalised with real detail, correctly handling
 
 A template sent repeatedly goes wrong in predictable ways: a generic opening line that would read the same for anyone, one person addressed directly while a second recipient gets quietly demoted to the third person, or a forwarded section written as if the person it is meant for is actually reading the email. This handles all three correctly, and keeps the template itself untouched.
 
-![Three routes for personalising a fixed template based on recipients.](assets/diagrams/14-personalise-dont-templatise.svg)
+[![Three routes for personalising a fixed template based on recipients.](assets/diagrams/14-personalise-dont-templatise.svg)](SKILL.md)
 
 ## Use It
 
