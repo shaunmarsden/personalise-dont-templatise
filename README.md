@@ -11,13 +11,7 @@ Draft a fixed-template message personalised with real detail, correctly handling
 
 A template sent repeatedly goes wrong in predictable ways: a generic opening line that would read the same for anyone, one person addressed directly while a second recipient gets quietly demoted to the third person, or a forwarded section written as if the person it is meant for is actually reading the email. This handles all three correctly, and keeps the template itself untouched.
 
-```mermaid
-flowchart TB
-    A["1. Paste the real detail and who this is going to"]
-    B["2. Personalised, structure kept, recipients handled correctly"]
-    C["3. A message that addresses everyone properly, or a stop and a question"]
-    A --> B --> C
-```
+![Three routes for personalising a fixed template based on recipients.](assets/diagrams/14-personalise-dont-templatise.svg)
 
 ## Use It
 
