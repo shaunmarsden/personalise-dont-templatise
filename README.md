@@ -13,6 +13,8 @@ A template sent repeatedly goes wrong in predictable ways: a generic opening lin
 
 [![Three routes for personalising a fixed template based on recipients.](assets/diagrams/14-personalise-dont-templatise.svg)](SKILL.md)
 
+**Not what you need?** This personalises a template you already have for a known recipient or recipients. If this is a cold first message to someone you do not have a relationship with yet, [First Contact That Isn't Generic](https://github.com/shaunmarsden/first-contact-that-isnt-generic) is probably the one you want.
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in the real detail and how many people this is going to. It produces a message that:
