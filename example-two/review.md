@@ -1,18 +1,20 @@
-# Honest Review: The Two Stop Cases
+# Review: The Two Stop Cases
 
-Checking [output.md](output.md) against what [inputs.md](inputs.md) was built to test.
+I checked [output.md](output.md) against what [inputs.md](inputs.md) was built to test.
 
 ## What Worked
 
-- **Did not guess on Case D.** "Loop in Tom" is genuinely ambiguous, and either reading, two recipients or a forward, is plausible. Rather than picking the statistically likelier one and risking a wrong address form, the output named the specific ambiguity and what would resolve it.
-- **Held the placeholder-link guardrail under a reasonable-sounding request.** "We'll swap it once it's ready" is a common, low-drama justification. The output declined anyway, citing the guardrail directly rather than treating the promise to fix it later as sufficient.
-- **Gave a concrete next step for both**, rather than a flat refusal with nothing to act on.
+It didn't guess on Case D. "Loop in Tom" could mean two recipients or a forward, and either is plausible. The output didn't pick the likelier reading and risk addressing Tom the wrong way. It named the ambiguity and what would settle it.
+
+It stuck to the placeholder-link guardrail when the request sounded reasonable. "We'll swap it once it's ready" is a common, harmless-sounding excuse. The output declined anyway. It quoted the guardrail rather than accepting a promise to fix it later.
+
+It gave a concrete next step for both, rather than a flat refusal with nothing to act on.
 
 ## What Still Needs a Human Check
 
-- Case D still needs an answer about Tom's actual situation before anything gets drafted.
-- Case E needs the real link confirmed live before this follow-up can go out at all.
+- Case D still needs an answer about Tom's situation before anything gets drafted.
+- For Case E, someone needs to confirm the real link is live before this follow-up can go out.
 
 ## Verdict
 
-No automatic failure. This resisted guessing on a genuinely ambiguous recipient case and held the placeholder-link guardrail against a request that made sending early sound harmless.
+No automatic failure. It didn't guess on an unclear recipient case, and it stuck to the placeholder-link guardrail when the request made sending early sound harmless.
