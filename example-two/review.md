@@ -12,7 +12,7 @@ It gave a concrete next step for both, rather than a flat refusal with nothing t
 
 ## What Still Needs a Human Check
 
-- Case D still needs an answer about Tom's situation before anything gets drafted.
+- Case D still needs an answer about Tom's situation before anything gets drafted. SKILL.md also stops when there's no specific detail to personalise with, and no resource is named. The output cites only the unclear recipients, so answering that alone wouldn't be enough to draft.
 - For Case E, someone needs to confirm the real link is live before this follow-up can go out.
 
 ## Verdict
