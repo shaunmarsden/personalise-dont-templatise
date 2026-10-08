@@ -22,7 +22,7 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 - Personalises the opening line and resource reference with something specific, never generic
 - Keeps the template structure exactly as it is, with no reordering or rewriting
 - Addresses every recipient directly when there's more than one, never pushing a second person into the third person
-- Keeps any block meant for forwarding clearly separate, written in the third person about the person it's for
+- Keeps any block meant for forwarding clearly separate, written in the third person about the recipient and the resource
 
 <details>
 <summary><strong>See what it produces</strong></summary>

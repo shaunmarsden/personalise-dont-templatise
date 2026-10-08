@@ -5,3 +5,5 @@ The first [example](../example/) tests getting single, multiple and forwarding r
 - [inputs.md](inputs.md): two more fictional cases at the same photography workshop
 - [output.md](output.md): the response, which stops and asks rather than guessing or sending early
 - [review.md](review.md): whether the tool stood firm on both
+
+The repository doesn't record which model wrote this response, or whether it knew what the test was checking. Read it as an illustration of what a good run looks like, not as a logged run.
