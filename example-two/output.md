@@ -2,11 +2,11 @@
 
 Source: [inputs.md](inputs.md).
 
-## Case D: Priya and Tom
+## Case D: Gwen and Tom
 
-Not drafted yet. Whether Tom attended the same session as Priya, making this a two-recipient message, or Priya needs to forward part of this to Tom, who was not there, changes how the message has to be written: a two-recipient message addresses both directly, a forward case keeps Priya as the sole recipient and writes a separate third-person block for Tom. [SKILL.md](../SKILL.md)'s own stop condition names exactly this: "it is unclear whether this is a single recipient, multiple recipients, or a forward-to-someone-else case." Guessing either way risks addressing Tom as though he attended when he did not, or sidelining him into the third person when he actually did.
+Not drafted yet. Whether Tom attended the same session as Gwen, making this a two-recipient message, or Gwen needs to forward part of this to Tom, who was not there, changes how the message has to be written: a two-recipient message addresses both directly, a forward case keeps Gwen as the sole recipient and writes a separate third-person block for Tom. [SKILL.md](../SKILL.md)'s own stop condition names exactly this: "it is unclear whether this is a single recipient, multiple recipients, or a forward-to-someone-else case." Guessing either way risks addressing Tom as though he attended when he did not, or sidelining him into the third person when he actually did.
 
-**What is needed to proceed:** confirm whether Tom was at the session Priya is following up on, or whether this is going to Priya alone with a section for her to forward to Tom.
+**What is needed to proceed:** confirm whether Tom was at the session Gwen is following up on, or whether this is going to Gwen alone with a section for her to forward to Tom.
 
 ## Case E: The Placeholder Link
 
