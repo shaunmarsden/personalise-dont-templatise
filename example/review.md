@@ -8,7 +8,7 @@ It kept the template order the same in all three. Every message has the same thr
 
 In Case B it addressed both recipients as "you," never in the third person. The easy mistake is to pick one person, say Tom, as the main reader and mention the other's question to him: "and Lisa was also curious." The output avoided this. It addressed "Tom and Lisa" together and covered both questions as things that came up for the group.
 
-In Case C it kept Priya's own message apart from the forwarding block. Priya's part reads exactly as it would if she were the only recipient. The block for Dev is clearly marked and separate. It's written in the third person about Priya and the resource, since Dev isn't reading this email.
+In Case C it kept Gwen's own message apart from the forwarding block. Gwen's part reads exactly as it would if she were the only recipient. The block for Dev is clearly marked and separate. It's written in the third person about Gwen and the resource, since Dev isn't reading this email.
 
 It used no placeholder resources. Only Maya's cheat sheet is confirmed in the inputs as having a working link, but no message fell back on a vague "I'll follow up with more detail."
 
@@ -16,7 +16,7 @@ It used no placeholder resources. Only Maya's cheat sheet is confirmed in the in
 
 - Before sending, check the low-light cheat sheet, the composition and editing notes and the portrait lighting resource are attached or linked correctly. This draft assumes they exist but doesn't check the links.
 - The inputs confirm a working resource only for Case A. Cases B and C describe resources ("notes on both", "this resource") that the inputs never say exist, and SKILL.md says to confirm a resource exists, not assume it. Case B's "came up a lot this session" isn't in the inputs either.
-- Priya should confirm she's happy to forward the block for Dev before she does. It was drafted for her to use, not sent automatically.
+- Gwen should confirm she's happy to forward the block for Dev before she does. It was drafted for her to use, not sent automatically.
 
 ## Verdict
 

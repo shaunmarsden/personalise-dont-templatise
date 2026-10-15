@@ -4,7 +4,7 @@ The same fictional Riverside Photography Workshop, two harder cases.
 
 ## Case D: Unclear Whether This Is Two Recipients or a Forward
 
-"This one needs to go out to Priya, and can you also loop in Tom on it." Nothing else is said about whether Tom attended the same session as Priya, or whether Priya is meant to forward this on to him afterwards. Both are genuinely plausible from what has been said.
+"This one needs to go out to Gwen, and can you also loop in Tom on it." Nothing else is said about whether Tom attended the same session as Gwen, or whether Gwen is meant to forward this on to him afterwards. Both are genuinely plausible from what has been said.
 
 ## Case E: A Resource Link That Is Not Actually Ready Yet
 

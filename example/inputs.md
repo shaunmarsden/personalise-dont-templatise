@@ -12,4 +12,4 @@ Tom and Lisa attended together as a couple. Tom asked about landscape compositio
 
 ## Case C: Recipient Forwarding to Someone Not There
 
-Priya attended representing her camera club. She needs to forward the workshop material to Dev, the club's events coordinator, who was not at the workshop and will not be on this email directly. Priya herself asked about portrait lighting setups.
+Gwen attended representing her camera club. She needs to forward the workshop material to Dev, the club's events coordinator, who was not at the workshop and will not be on this email directly. Gwen herself asked about portrait lighting setups.
